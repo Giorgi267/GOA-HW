@@ -1,4 +1,4 @@
-mame = 'giorgi'
+name = 'giorgi'
 fullname = 'giorgi samsonidze'
 age = 15
 
